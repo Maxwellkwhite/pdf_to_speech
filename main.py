@@ -12,7 +12,7 @@ text = page.extract_text()
 
 URL = "https://api.elevenlabs.io/v1/voices"
 
-XI_API_KEY = 'sk_4be3f5e8321e32e5f69c800e9f7897925f182f634d6581a1'
+XI_API_KEY = ''
 
 CHUNK_SIZE = 1024  
 VOICE_ID = "EXAVITQu4vr4xnSDxMaL"  
